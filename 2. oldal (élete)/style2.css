@@ -1,16 +1,15 @@
-header{
-    background-image: url(/Képek/neumann-janos-003-wikipedia.jpg);
-    background-repeat: no-repeat;
-    background-size:cover;
-    height: 300px;
-    background-position-y: center;
-}
 h1{
     text-align: center;
-    color: rgb(57, 29, 158)
+    color: rgb(57, 29, 158);
+    
 }
-main{
+.sor{
     background-color: rgba(0, 0, 139, 0.4);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
 }
 body{
     background-image: url(/Képek/hatter.jpg);
@@ -22,4 +21,10 @@ footer{
     background-color: rgba(14,14,14,255);
     text-align: center;
     height: 35px;
+}
+.card{
+    background-color: rgba(189, 183, 107, 0.712);
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
 }
