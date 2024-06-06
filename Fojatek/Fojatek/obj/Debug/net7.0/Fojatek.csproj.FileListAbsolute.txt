@@ -1,0 +1,14 @@
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\bin\Debug\net7.0\Fojatek.exe
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\bin\Debug\net7.0\Fojatek.deps.json
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\bin\Debug\net7.0\Fojatek.runtimeconfig.json
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\bin\Debug\net7.0\Fojatek.dll
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\bin\Debug\net7.0\Fojatek.pdb
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\Fojatek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\Fojatek.AssemblyInfoInputs.cache
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\Fojatek.AssemblyInfo.cs
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\Fojatek.csproj.CoreCompileInputs.cache
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\Fojatek.dll
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\refint\Fojatek.dll
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\Fojatek.pdb
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\Fojatek.genruntimeconfig.cache
+C:\Users\goran\Desktop\Susu\IKT\11. évf\Jatek\Fojatek\Fojatek\Fojatek\obj\Debug\net7.0\ref\Fojatek.dll
